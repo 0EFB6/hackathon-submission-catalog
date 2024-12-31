@@ -1,0 +1,12 @@
+name: FlowNotFlow
+tagline: >-
+  Play one-on-one Poker games directly on Telegram with FLOW-backed
+  functionality and real-time updates.
+showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-Flow-not-Fold
+sourceCodeUrl: https://github.com/eesuhn/flow-not-fold
+liveDemoUrl:  ''
+team:
+  - name: Eason
+    github: eesuhn
+  - name: Wilson
+    github: 0efb6
